@@ -1,6 +1,6 @@
 # Lab 8 — Root Cause Analysis with 5 Whys, Fishbone, and Evidence
 
-**DMAIC phase:** ANALYZE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** ANALYZE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 ## Objective
 
@@ -61,8 +61,8 @@ Each shortlisted root cause is supported by named evidence, and your 5 Whys chai
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

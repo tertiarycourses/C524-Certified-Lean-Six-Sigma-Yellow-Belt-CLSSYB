@@ -1,6 +1,6 @@
 # Lab 5 — DMAIC Overview, Problem Statement, Scope, and Stakeholders
 
-**DMAIC phase:** DEFINE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** DEFINE  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 ## Objective
 
@@ -48,8 +48,8 @@ Your problem statement passes the 'no solution named' test and every stakeholder
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

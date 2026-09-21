@@ -1,6 +1,6 @@
 # Lab 10 — Control Plan, A3 Summary, Handover, and Certification Readiness
 
-**DMAIC phase:** CONTROL  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** CONTROL  |  **Lab type:** Core  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 ## Objective
 
@@ -48,8 +48,8 @@ Every control plan row has a named owner and a reaction plan, and your A3 fits o
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

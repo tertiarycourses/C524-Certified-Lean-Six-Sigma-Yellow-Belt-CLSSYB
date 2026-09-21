@@ -7,12 +7,12 @@ This is a **non-WSQ commercial short course**: there is no assessment, no SSG/Sk
 ## Course Information
 
 - **Course Code:** C524
-- **Course Title:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training
-- **Duration:** 2 days · 8 training hours per day (16 hours)
-- **Daily Timing:** 9:30 am – 6:30 pm (1-hour lunch; tea breaks within training time)
+- **Course Title:** Certified Lean Six Sigma Yellow Belt (CLSSYB)
+- **Duration:** 2 days · 7.5 instructional hours per day (15 hours)
+- **Daily Timing:** 9:30 am – 5:30 pm (30-minute lunch break)
 - **Level:** Beginner
 - **Mode:** Instructor-led, hands-on Lean Six Sigma labs
-- **Version:** v6 · 21 July 2026
+- **Version:** v1 · 21 September 2026
 - **Trainer:** Dr. Alfred Ang
 - **Course Registration:** [Certified Lean Six Sigma Yellow Belt (CLSSYB)](https://www.tertiarycourses.com.sg/certified-lean-six-sigma-yellow-belt.html)
 - **Reference:** The Council for Six Sigma Certification (CSSC), *Six Sigma: A Complete Step-by-Step Guide*
@@ -24,7 +24,7 @@ This is a **non-WSQ commercial short course**: there is no assessment, no SSG/Sk
 3. Map a process using SIPOC, process maps and value stream maps to expose handoffs and waste.
 4. Collect and analyse process data using check sheets, Pareto charts, run charts and basic metrics.
 5. Identify root causes using 5 Whys, Fishbone analysis and evidence-based prioritisation.
-6. Recommend improvement and control actions to sustain gains, and prepare for certification.
+6. Recommend improvement and control actions to sustain gains, and continue your Lean Six Sigma development.
 
 ## Course Structure — the DMAIC roadmap
 
@@ -65,7 +65,7 @@ See [labs/tools.md](labs/tools.md) for the browser-based problem-solving tools u
 ```
 .
 ├── courseware/                     Learner-facing artifacts
-│   ├── *-v6.pptx / *-v6.pdf        Slide deck (246 slides, concept-first, all-white house style)
+│   ├── *-v1.pptx / *-v1.pdf        Slide deck (246 slides, all-white house style)
 │   ├── LP-*.docx / LP-*.pdf        Lesson Plan
 │   ├── LG-*.docx / LG-*.pdf        Learner Guide
 │   ├── assets/                     Images used by the deck
@@ -77,25 +77,23 @@ See [labs/tools.md](labs/tools.md) for the browser-based problem-solving tools u
     └── commands/                   /gdrive-push-nonwsq + /lms-push-nonwsq
 ```
 
-## Building the Courseware
+## Provenance
 
-The **v6 courseware is a 1:1 concept-first mirror of the WSQ counterpart course** (same topic
-spine, same 14 labs, same Learner Guide depth) with the WSQ funding/compliance layer removed,
-per the `/non-wsq-courseware-gen` standard: every lab block is preceded by full concept
-sections with visuals, and labs are always introduced with full explanations — never
-one-liners.
+This courseware is a **direct conversion of the WSQ counterpart course**
+(`TGS-2025053922 — Certified Lean Six Sigma Yellow Belt (CLSSYB) Training`), produced with
+the `wsq-to-non-wsq` skill. The deck, Lesson Plan, Learner Guide and all 14 labs are the
+WSQ artifacts with the WSQ layer removed and the schedule retimed to the non-WSQ day —
+same topic spine, same labs, same house design.
 
-For regenerating from scratch, the single-source pipeline remains available — all generated
-artifacts derive from `course_data.py` plus `data_domain1.py` … `data_domain6.py` — so the
-deck, Lesson Plan, Learner Guide and labs can never drift apart.
+Removed in conversion: digital attendance, the WSQ Skills Framework / TSC alignment, the
+Learning Outcomes slide, assessment briefing / assessment / assessment-flow slides, the
+TRAQOM survey (rewritten in place as **Course Feedback**), and the SkillsFuture SOA and
+75%-attendance funding wording.
 
-```bash
-# Full build: PPT + LP + LG as DOCX + PDF, with page-numbered tables of contents
-bash .claude/skills/non-wsq-courseware-build/build/build_courseware.sh
-```
-
-To change course content, edit the data modules and rebuild — never hand-edit the generated
-`.pptx` / `.docx` files, as the next build will overwrite them.
+Retimed: 9:30 am – 5:30 pm, **450 instructional minutes per day** plus a single 30-minute
+lunch (the WSQ parent's 9:30–6:30 day with a 1-hour lunch and two tea breaks does not
+apply). Day 2's freed assessment block was redistributed proportionally across every
+topic rather than absorbed by one.
 
 ### Quality check
 

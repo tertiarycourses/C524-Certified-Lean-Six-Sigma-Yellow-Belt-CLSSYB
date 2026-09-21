@@ -1,6 +1,6 @@
 # Lab 14 — Descriptive Statistics and Implementation Planning
 
-**DMAIC phase:** CONTROL  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** CONTROL  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 > **Elective lab.** Complete this lab if time allows during class, or afterwards as additional practice. It extends the same Contoso Service Desk scenario used by the core labs.
 
@@ -42,8 +42,8 @@ You can explain why the mean and median differ in your data, and every implement
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

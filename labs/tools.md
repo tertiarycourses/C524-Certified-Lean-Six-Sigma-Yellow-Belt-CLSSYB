@@ -1,6 +1,6 @@
 # Lean Six Sigma Toolkit
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524*
 
 ## Interactive online tools
 

@@ -1,6 +1,6 @@
 # Lab 11 — Affinity Diagram and Kano Analysis
 
-**DMAIC phase:** DEFINE  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** DEFINE  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 > **Elective lab.** Complete this lab if time allows during class, or afterwards as additional practice. It extends the same Contoso Service Desk scenario used by the core labs.
 
@@ -42,8 +42,8 @@ Every VOC note sits in exactly one named affinity group and carries a Kano class
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

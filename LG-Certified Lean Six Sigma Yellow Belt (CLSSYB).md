@@ -1,12 +1,11 @@
-# Certified Lean Six Sigma Yellow Belt (CLSSYB) Training — Learner Guide
+# Certified Lean Six Sigma Yellow Belt (CLSSYB) — Learner Guide
 
-**Course Code:** C524  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v6 · 21 July 2026**
+**Course Code:** C524  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1 · 20 July 2026**
 
 ## Contents
 
 - [Introduction](#introduction)
 - [Course Learning Outcomes](#course-learning-outcomes)
-- [Standards Alignment](#standards-alignment)
 - [Before You Start](#before-you-start)
 - [FOUNDATIONS — Six Sigma Foundations  (15%)](#foundations--six-sigma-foundations--15)
   - [Lab 1 — Yellow Belt Role, Certification Paths, and Improvement Scenario  [Core]](#lab-1--yellow-belt-role-certification-paths-and-improvement-scenario--core)
@@ -30,13 +29,13 @@
   - [Lab 14 — Descriptive Statistics and Implementation Planning  [Elective]](#lab-14--descriptive-statistics-and-implementation-planning--elective)
 - [Quick Reference — Formulas You Should Know](#quick-reference--formulas-you-should-know)
 - [Quick Reference — The Eight Wastes (DOWNTIME)](#quick-reference--the-eight-wastes-downtime)
-- [Consolidating Your Learning](#consolidating-your-learning)
+- [Consolidating What You Learned](#consolidating-what-you-learned)
 - [Glossary](#glossary)
 
 
 ## Introduction
 
-This Learner Guide accompanies the course Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524), conducted by Tertiary Infotech Academy Pte Ltd. It follows the DMAIC roadmap end to end — Define, Measure, Analyze, Improve, Control — and provides step-by-step instructions for every hands-on lab. Core labs are completed by everyone in class; elective labs are provided as additional practice and are run when time allows.
+This Learner Guide accompanies the course Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524), conducted by Tertiary Infotech Academy Pte Ltd. It follows the DMAIC roadmap end to end — Define, Measure, Analyze, Improve, Control — and provides step-by-step instructions for every hands-on lab. Core labs are completed by everyone; elective labs are provided as additional practice and are run when time allows.
 
 The course content is grounded in the body of knowledge published by The Council for Six Sigma Certification (CSSC) in 'Six Sigma: A Complete Step-by-Step Guide', so what you learn here matches the recognised Yellow Belt standard.
 
@@ -52,23 +51,6 @@ Every lab uses one continuous scenario — the Contoso Service Desk, where IT ti
 - LO5: Identify root causes using 5 Whys, Fishbone analysis and evidence-based prioritisation.
 - LO6: Recommend improvement and control actions to sustain gains, and prepare for certification.
 
-
-## Standards Alignment
-
-This course is grounded in the internationally recognised Lean Six Sigma Yellow Belt body of knowledge published by The Council for Six Sigma Certification (CSSC), so what you learn matches the recognised Yellow Belt standard.
-
-**Abilities**
-
-- A1: Define project to meet process performance.
-- A2: Establish project scope of work and the number of hours based on organisational requirements.
-- A3: Analyse process performance data to identify root causes of variation.
-- A4: Measure process performance against defined quality standards.
-- A5: Recommend improvement and control actions to sustain process performance.
-
-**Knowledge**
-
-- K1: Lean and Six Sigma concepts, wastes, value and variation.
-- K2: Quality tools and techniques for process improvement.
 
 
 ## Before You Start
@@ -92,7 +74,7 @@ Five browser-based tools are used during the labs. No installation, licence or s
 
 **Core and elective labs**
 
-- Core labs are completed by everyone and build the improvement package step by step.
+- Core labs are completed by everyone and map directly to the DMAIC phases.
 - Elective labs extend the same scenario with additional Lean Six Sigma tools; complete them if time allows or as post-course practice.
 - All labs build on the same Contoso Service Desk scenario, so outputs carry forward from one lab to the next.
 
@@ -641,16 +623,17 @@ You can explain why the mean and median differ in your data, and every implement
 - E — Extra-processing: doing more work to the output than the customer requires or values.
 
 
-## Consolidating Your Learning
+## Consolidating What You Learned
 
-- Re-read your own lab outputs — together they form a complete improvement package built on one continuous scenario.
+- Keep these slides, this Learner Guide and your lab outputs — they are your working reference.
+- Re-read your own lab outputs; they follow the same Contoso Service Desk scenario end to end.
 - Be ready to define Lean, Six Sigma and Lean Six Sigma, and explain how they differ.
 - Be ready to name the eight wastes and give a service-industry example of each.
 - Be ready to explain each DMAIC phase, what it delivers and which tools belong to it.
 - Be ready to calculate yield, DPU, DPO and DPMO from raw data and read off the sigma level.
 - Be ready to explain how the Fishbone diagram and 5 Whys are used together to find a root cause.
-- Re-work the labs from memory — being able to produce the tools unaided is the best way to lock in the skills.
-- Apply the toolkit at work — run one small PDCA improvement in your own area within 30 days.
+- Re-work the labs from memory — being able to produce the tools unaided is the best practice.
+- Full attendance across both days gives you the complete DMAIC picture.
 
 
 ## Glossary

@@ -1,6 +1,6 @@
 # Lab 12 — Value Stream Map and Takt Time
 
-**DMAIC phase:** MEASURE  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) Training (C524)
+**DMAIC phase:** MEASURE  |  **Lab type:** Elective  |  **Course:** Certified Lean Six Sigma Yellow Belt (CLSSYB) (C524)
 
 > **Elective lab.** Complete this lab if time allows during class, or afterwards as additional practice. It extends the same Contoso Service Desk scenario used by the core labs.
 
@@ -48,8 +48,8 @@ Your lead time equals the sum of all process and wait times, and takt time is ex
 
 ## Deliverable
 
-Save your output — it forms part of your Contoso improvement package and is your reference for applying these tools at work.
+Save your output — it forms part of your Contoso improvement package and is your reference for applying the method at work.
 
 ---
 
-*Certified Lean Six Sigma Yellow Belt (CLSSYB) Training · C524 · Version v6 · © 2026 Tertiary Infotech Academy Pte Ltd*
+*Certified Lean Six Sigma Yellow Belt (CLSSYB) · C524 · Version v1 · © 2026 Tertiary Infotech Academy Pte Ltd*

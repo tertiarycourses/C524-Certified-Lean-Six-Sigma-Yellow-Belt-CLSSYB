@@ -1,12 +1,12 @@
-# Labs — Certified Lean Six Sigma Yellow Belt (CLSSYB) Training
+# Labs — Certified Lean Six Sigma Yellow Belt (CLSSYB)
 
-**Course Code:** C524  |  **Version v6 · 21 July 2026**
+**Course Code:** C524  |  **Version v1 · 20 July 2026**
 
 These labs follow the DMAIC roadmap end to end. Every lab builds on the same Contoso Service Desk scenario, so your outputs accumulate into one complete improvement package.
 
 ## Lab types
 
-- **Core** — completed by everyone; builds the improvement package step by step.
+- **Core** — completed by everyone; maps directly to the DMAIC phases.
 - **Elective** — additional practice with further Lean Six Sigma tools; run when time allows or after the course.
 
 ## Lab index
