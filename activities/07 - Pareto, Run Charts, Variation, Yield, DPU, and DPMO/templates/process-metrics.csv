@@ -1,0 +1,10 @@
+metric,formula,your_calculation
+Units,Total tickets,
+Defective units,Tickets with >= 1 defect,
+Total defects,Sum of all defects,
+Opportunities per unit,Given,6
+Yield %,(Units - Defective) / Units x 100,
+DPU,Defects / Units,
+DPO,Defects / (Units x Opportunities),
+DPMO,"DPO x 1,000,000",
+Sigma level,From the DPMO conversion table,

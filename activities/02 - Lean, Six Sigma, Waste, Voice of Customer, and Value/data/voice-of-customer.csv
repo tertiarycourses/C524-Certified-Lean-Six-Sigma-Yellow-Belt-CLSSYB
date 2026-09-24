@@ -1,0 +1,11 @@
+id,customer_statement,source,date
+VOC-01,I raised a ticket yesterday morning and nobody has picked it up.,Employee survey,2026-06-02
+VOC-02,I have to keep emailing the service desk just to find out what is happening.,Employee survey,2026-06-02
+VOC-03,One agent told me it was resolved but the laptop still will not connect.,Complaint log,2026-06-03
+VOC-04,I had to explain the same problem three times to three different people.,Focus group,2026-06-04
+VOC-05,I do not know who owns my ticket once it leaves the service desk.,Focus group,2026-06-04
+VOC-06,When it is urgent I just walk over to the IT room — that is faster.,Interview,2026-06-05
+VOC-07,Please just tell me realistically when it will be fixed.,Employee survey,2026-06-05
+VOC-08,My ticket was closed without anyone telling me what was done.,Complaint log,2026-06-08
+VOC-09,The portal asks for information you cannot possibly know.,Interview,2026-06-09
+VOC-10,It gets bounced between teams and restarts each time.,Focus group,2026-06-10

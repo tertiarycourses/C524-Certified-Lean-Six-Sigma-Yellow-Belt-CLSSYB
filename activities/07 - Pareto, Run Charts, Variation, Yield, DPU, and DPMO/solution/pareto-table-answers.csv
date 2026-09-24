@@ -1,0 +1,7 @@
+defect_category,count,percent,cumulative_percent
+Delayed assignment,48,40.0%,40.0%
+Missing information,30,25.0%,65.0%
+Wrong queue,18,15.0%,80.0%
+Reopened ticket,12,10.0%,90.0%
+Duplicate ticket,8,6.7%,96.7%
+Unclear status,4,3.3%,100.0%

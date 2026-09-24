@@ -1,0 +1,8 @@
+step_no,activity,actor,system,process_time_min,wait_time_min,handoff_to
+1,Employee logs the ticket,Employee,Self-service portal,5,0,Service Desk
+2,Ticket lands in the unassigned queue,System,ITSM,0,38,Triage agent
+3,Triage agent reviews and categorises,Triage agent,ITSM,6,4,Triage agent
+4,Agent decides the specialist queue,Triage agent,ITSM,4,7,Specialist queue
+5,Specialist queue accepts the ticket,Specialist,ITSM,3,52,Specialist
+6,Specialist resolves the issue,Specialist,ITSM + asset tools,34,0,Employee
+7,Ticket closed and employee notified,Specialist,ITSM,2,0,

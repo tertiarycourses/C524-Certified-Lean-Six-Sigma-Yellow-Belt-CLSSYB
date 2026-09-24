@@ -1,0 +1,6 @@
+solution_id,candidate_solution,est_cost,est_effort_days
+S-1,Mandatory triage checklist before a ticket can be assigned,Low,3
+S-2,Make asset tag and impact required fields in the portal,Low,5
+S-3,Named triage owner on every shift,Low,1
+S-4,Auto-routing rules based on ticket type,Medium,15
+S-5,Replace the ITSM platform,High,120

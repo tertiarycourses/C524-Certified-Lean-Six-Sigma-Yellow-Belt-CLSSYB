@@ -1,0 +1,9 @@
+evidence_id,observation,source,supports_cause
+E-01,Mean assignment time rose from 44 min (days 1-6) to 72 min (days 7-10),daily-summary.csv,
+E-02,The ITSM server migration went live on 9 June 2026,Change log,
+E-03,Only 2 of 5 triage agents were rostered on 10-12 June,Duty roster,
+E-04,No documented rule states how quickly a ticket must be assigned,Process audit,
+E-05,18 tickets were routed to the wrong specialist queue and came back,defect-counts.csv,
+E-06,The portal does not make the asset tag a required field,System inspection,
+E-07,30 tickets were logged with missing information,defect-counts.csv,
+E-08,Triage is not assigned to a named owner at peak times,Interview,

@@ -1,0 +1,6 @@
+process_step,metric,target,owner,check_frequency,response_plan
+Triage,Mean assignment time,< 30 min,,Daily,
+Triage,Tickets unassigned > 60 min,0,,Daily,
+Routing,Wrong-queue defects,< 2 per week,,Weekly,
+Closure,Reopened tickets,< 1%,,Weekly,
+,,,,,

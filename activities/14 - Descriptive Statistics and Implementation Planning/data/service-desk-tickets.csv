@@ -1,0 +1,401 @@
+ticket_id,date,ticket_type,channel,assigned_queue,agent,assignment_time_min,met_30min_goal,defect_count,defect_categories,reopened
+INC-4101,2026-06-01,Software install,Portal,Accounts,A-02,53,No,0,None,No
+INC-4102,2026-06-01,Password reset,Email,Desktop Support,A-03,77,No,0,None,No
+INC-4103,2026-06-01,Password reset,Walk-in,Desktop Support,A-02,41,No,0,None,No
+INC-4104,2026-06-01,Access request,Portal,Security,A-05,33,No,0,None,No
+INC-4105,2026-06-01,Password reset,Email,Desktop Support,A-01,39,No,0,None,No
+INC-4106,2026-06-01,Network issue,Email,Network,A-01,24,Yes,0,None,No
+INC-4107,2026-06-01,Access request,Phone,Security,A-03,79,No,1,Reopened ticket,Yes
+INC-4108,2026-06-01,Email problem,Email,Desktop Support,A-05,21,Yes,0,None,No
+INC-4109,2026-06-01,Access request,Portal,Security,A-01,26,Yes,0,None,No
+INC-4110,2026-06-01,Network issue,Phone,Applications,A-04,75,No,0,None,No
+INC-4111,2026-06-01,Access request,Walk-in,Network,A-01,25,Yes,0,None,No
+INC-4112,2026-06-01,Hardware fault,Phone,Accounts,A-02,30,Yes,0,None,No
+INC-4113,2026-06-01,Access request,Email,Desktop Support,A-05,29,Yes,0,None,No
+INC-4114,2026-06-01,Password reset,Email,Network,A-02,22,Yes,0,None,No
+INC-4115,2026-06-01,Other,Phone,Applications,A-01,43,No,0,None,No
+INC-4116,2026-06-01,Access request,Email,Applications,A-02,65,No,0,None,No
+INC-4117,2026-06-01,Password reset,Portal,Network,A-03,26,Yes,0,None,No
+INC-4118,2026-06-01,Hardware fault,Phone,Desktop Support,A-03,35,No,0,None,No
+INC-4119,2026-06-01,Network issue,Phone,Network,A-05,39,No,0,None,No
+INC-4120,2026-06-01,Access request,Portal,Security,A-04,30,Yes,0,None,No
+INC-4121,2026-06-01,Software install,Portal,Network,A-04,44,No,0,None,No
+INC-4122,2026-06-01,Access request,Portal,Network,A-03,72,No,2,Missing information; Wrong queue,No
+INC-4123,2026-06-01,Network issue,Walk-in,Desktop Support,A-02,91,No,1,Delayed assignment,No
+INC-4124,2026-06-01,Network issue,Portal,Desktop Support,A-03,53,No,0,None,No
+INC-4125,2026-06-01,Access request,Walk-in,Network,A-03,42,No,0,None,No
+INC-4126,2026-06-01,Password reset,Phone,Accounts,A-05,44,No,3,Duplicate ticket; Missing information; Reopened ticket,Yes
+INC-4127,2026-06-01,Password reset,Phone,Network,A-03,33,No,0,None,No
+INC-4128,2026-06-01,Password reset,Email,Network,A-03,27,Yes,0,None,No
+INC-4129,2026-06-01,Hardware fault,Phone,Security,A-04,30,Yes,1,Missing information,No
+INC-4130,2026-06-01,Email problem,Portal,Applications,A-04,42,No,0,None,No
+INC-4131,2026-06-01,Hardware fault,Phone,Applications,A-03,27,Yes,0,None,No
+INC-4132,2026-06-01,Network issue,Portal,Applications,A-05,29,Yes,2,Missing information; Wrong queue,No
+INC-4133,2026-06-01,Software install,Phone,Applications,A-01,85,No,0,None,No
+INC-4134,2026-06-01,Network issue,Email,Network,A-04,57,No,0,None,No
+INC-4135,2026-06-01,Software install,Email,Security,A-02,75,No,0,None,No
+INC-4136,2026-06-01,Software install,Portal,Desktop Support,A-01,65,No,0,None,No
+INC-4137,2026-06-01,Access request,Portal,Desktop Support,A-05,28,Yes,0,None,No
+INC-4138,2026-06-01,Network issue,Portal,Network,A-01,30,Yes,0,None,No
+INC-4139,2026-06-01,Other,Email,Applications,A-05,54,No,0,None,No
+INC-4140,2026-06-01,Access request,Portal,Applications,A-05,124,No,1,Delayed assignment,No
+INC-4141,2026-06-02,Password reset,Email,Accounts,A-02,87,No,0,None,No
+INC-4142,2026-06-02,Hardware fault,Portal,Accounts,A-05,42,No,0,None,No
+INC-4143,2026-06-02,Software install,Portal,Applications,A-05,47,No,3,Duplicate ticket; Missing information; Wrong queue,No
+INC-4144,2026-06-02,Network issue,Phone,Network,A-03,27,Yes,1,Wrong queue,No
+INC-4145,2026-06-02,Software install,Walk-in,Accounts,A-05,69,No,1,Wrong queue,No
+INC-4146,2026-06-02,Password reset,Email,Network,A-05,34,No,0,None,No
+INC-4147,2026-06-02,Password reset,Phone,Security,A-01,30,Yes,0,None,No
+INC-4148,2026-06-02,Software install,Walk-in,Security,A-04,31,No,0,None,No
+INC-4149,2026-06-02,Access request,Phone,Network,A-05,36,No,0,None,No
+INC-4150,2026-06-02,Access request,Walk-in,Applications,A-04,29,Yes,0,None,No
+INC-4151,2026-06-02,Email problem,Email,Applications,A-01,129,No,1,Delayed assignment,No
+INC-4152,2026-06-02,Software install,Phone,Security,A-04,27,Yes,0,None,No
+INC-4153,2026-06-02,Hardware fault,Walk-in,Applications,A-03,48,No,0,None,No
+INC-4154,2026-06-02,Password reset,Walk-in,Desktop Support,A-04,63,No,0,None,No
+INC-4155,2026-06-02,Access request,Walk-in,Network,A-03,47,No,0,None,No
+INC-4156,2026-06-02,Network issue,Email,Security,A-05,23,Yes,0,None,No
+INC-4157,2026-06-02,Hardware fault,Walk-in,Desktop Support,A-04,62,No,1,Missing information,No
+INC-4158,2026-06-02,Network issue,Walk-in,Accounts,A-03,19,Yes,0,None,No
+INC-4159,2026-06-02,Password reset,Portal,Security,A-03,32,No,3,Reopened ticket; Missing information; Duplicate ticket,Yes
+INC-4160,2026-06-02,Network issue,Walk-in,Desktop Support,A-04,40,No,0,None,No
+INC-4161,2026-06-02,Email problem,Portal,Network,A-01,42,No,0,None,No
+INC-4162,2026-06-02,Access request,Phone,Network,A-02,66,No,0,None,No
+INC-4163,2026-06-02,Password reset,Portal,Security,A-03,24,Yes,0,None,No
+INC-4164,2026-06-02,Software install,Portal,Desktop Support,A-02,43,No,0,None,No
+INC-4165,2026-06-02,Access request,Email,Network,A-03,40,No,0,None,No
+INC-4166,2026-06-02,Password reset,Portal,Desktop Support,A-03,42,No,0,None,No
+INC-4167,2026-06-02,Password reset,Phone,Desktop Support,A-02,30,Yes,0,None,No
+INC-4168,2026-06-02,Password reset,Walk-in,Desktop Support,A-04,36,No,1,Missing information,No
+INC-4169,2026-06-02,Email problem,Email,Accounts,A-01,49,No,0,None,No
+INC-4170,2026-06-02,Password reset,Portal,Security,A-05,76,No,0,None,No
+INC-4171,2026-06-02,Access request,Phone,Desktop Support,A-02,18,Yes,0,None,No
+INC-4172,2026-06-02,Access request,Portal,Applications,A-02,44,No,0,None,No
+INC-4173,2026-06-02,Other,Phone,Network,A-01,27,Yes,0,None,No
+INC-4174,2026-06-02,Network issue,Walk-in,Desktop Support,A-05,12,Yes,0,None,No
+INC-4175,2026-06-02,Access request,Walk-in,Desktop Support,A-04,29,Yes,0,None,No
+INC-4176,2026-06-02,Software install,Portal,Network,A-04,34,No,0,None,No
+INC-4177,2026-06-02,Email problem,Portal,Security,A-05,41,No,1,Missing information,No
+INC-4178,2026-06-02,Email problem,Email,Security,A-05,30,Yes,1,Reopened ticket,Yes
+INC-4179,2026-06-02,Password reset,Walk-in,Applications,A-02,48,No,0,None,No
+INC-4180,2026-06-02,Software install,Email,Security,A-03,67,No,0,None,No
+INC-4181,2026-06-03,Software install,Portal,Security,A-02,15,Yes,0,None,No
+INC-4182,2026-06-03,Software install,Portal,Accounts,A-02,36,No,2,Duplicate ticket; Missing information,No
+INC-4183,2026-06-03,Access request,Phone,Security,A-03,42,No,0,None,No
+INC-4184,2026-06-03,Network issue,Portal,Applications,A-02,21,Yes,0,None,No
+INC-4185,2026-06-03,Access request,Walk-in,Security,A-05,65,No,1,Missing information,No
+INC-4186,2026-06-03,Hardware fault,Phone,Security,A-02,73,No,0,None,No
+INC-4187,2026-06-03,Other,Phone,Desktop Support,A-01,29,Yes,0,None,No
+INC-4188,2026-06-03,Hardware fault,Phone,Security,A-01,39,No,0,None,No
+INC-4189,2026-06-03,Software install,Email,Desktop Support,A-05,87,No,0,None,No
+INC-4190,2026-06-03,Software install,Portal,Network,A-04,50,No,0,None,No
+INC-4191,2026-06-03,Software install,Walk-in,Desktop Support,A-01,79,No,0,None,No
+INC-4192,2026-06-03,Password reset,Portal,Network,A-04,24,Yes,0,None,No
+INC-4193,2026-06-03,Software install,Walk-in,Desktop Support,A-03,34,No,0,None,No
+INC-4194,2026-06-03,Password reset,Walk-in,Network,A-01,54,No,0,None,No
+INC-4195,2026-06-03,Email problem,Portal,Security,A-03,100,No,1,Delayed assignment,No
+INC-4196,2026-06-03,Hardware fault,Portal,Security,A-04,51,No,0,None,No
+INC-4197,2026-06-03,Software install,Email,Network,A-05,55,No,0,None,No
+INC-4198,2026-06-03,Network issue,Portal,Desktop Support,A-03,28,Yes,0,None,No
+INC-4199,2026-06-03,Software install,Portal,Network,A-01,36,No,2,Unclear status; Missing information,No
+INC-4200,2026-06-03,Password reset,Portal,Desktop Support,A-03,21,Yes,0,None,No
+INC-4201,2026-06-03,Other,Portal,Security,A-04,77,No,0,None,No
+INC-4202,2026-06-03,Password reset,Email,Accounts,A-01,40,No,0,None,No
+INC-4203,2026-06-03,Access request,Portal,Desktop Support,A-03,36,No,0,None,No
+INC-4204,2026-06-03,Hardware fault,Walk-in,Applications,A-05,16,Yes,0,None,No
+INC-4205,2026-06-03,Password reset,Walk-in,Security,A-04,55,No,0,None,No
+INC-4206,2026-06-03,Access request,Phone,Applications,A-05,34,No,0,None,No
+INC-4207,2026-06-03,Software install,Email,Network,A-01,25,Yes,0,None,No
+INC-4208,2026-06-03,Password reset,Walk-in,Desktop Support,A-01,19,Yes,2,Wrong queue; Reopened ticket,Yes
+INC-4209,2026-06-03,Software install,Portal,Network,A-05,26,Yes,0,None,No
+INC-4210,2026-06-03,Network issue,Phone,Accounts,A-04,39,No,0,None,No
+INC-4211,2026-06-03,Hardware fault,Phone,Security,A-01,45,No,0,None,No
+INC-4212,2026-06-03,Password reset,Walk-in,Accounts,A-03,69,No,0,None,No
+INC-4213,2026-06-03,Access request,Walk-in,Applications,A-03,30,Yes,2,Reopened ticket; Missing information,Yes
+INC-4214,2026-06-03,Other,Portal,Security,A-04,47,No,0,None,No
+INC-4215,2026-06-03,Other,Email,Accounts,A-01,46,No,0,None,No
+INC-4216,2026-06-03,Password reset,Email,Applications,A-03,38,No,0,None,No
+INC-4217,2026-06-03,Software install,Portal,Network,A-04,30,Yes,0,None,No
+INC-4218,2026-06-03,Access request,Walk-in,Applications,A-01,34,No,0,None,No
+INC-4219,2026-06-03,Email problem,Email,Desktop Support,A-03,34,No,0,None,No
+INC-4220,2026-06-03,Network issue,Walk-in,Network,A-04,35,No,0,None,No
+INC-4221,2026-06-04,Password reset,Walk-in,Applications,A-03,55,No,0,None,No
+INC-4222,2026-06-04,Software install,Walk-in,Network,A-01,33,No,0,None,No
+INC-4223,2026-06-04,Hardware fault,Email,Desktop Support,A-04,47,No,0,None,No
+INC-4224,2026-06-04,Password reset,Phone,Accounts,A-05,28,Yes,0,None,No
+INC-4225,2026-06-04,Hardware fault,Email,Network,A-02,36,No,0,None,No
+INC-4226,2026-06-04,Password reset,Walk-in,Security,A-01,26,Yes,0,None,No
+INC-4227,2026-06-04,Software install,Portal,Accounts,A-03,53,No,0,None,No
+INC-4228,2026-06-04,Network issue,Portal,Security,A-04,13,Yes,0,None,No
+INC-4229,2026-06-04,Email problem,Portal,Accounts,A-01,41,No,0,None,No
+INC-4230,2026-06-04,Password reset,Walk-in,Accounts,A-05,62,No,0,None,No
+INC-4231,2026-06-04,Password reset,Portal,Security,A-05,52,No,0,None,No
+INC-4232,2026-06-04,Other,Portal,Network,A-05,39,No,2,Missing information; Wrong queue,No
+INC-4233,2026-06-04,Password reset,Portal,Network,A-02,22,Yes,1,Missing information,No
+INC-4234,2026-06-04,Email problem,Phone,Accounts,A-01,90,No,0,None,No
+INC-4235,2026-06-04,Email problem,Walk-in,Desktop Support,A-03,49,No,0,None,No
+INC-4236,2026-06-04,Other,Portal,Accounts,A-01,21,Yes,0,None,No
+INC-4237,2026-06-04,Email problem,Walk-in,Applications,A-03,34,No,0,None,No
+INC-4238,2026-06-04,Email problem,Walk-in,Desktop Support,A-03,31,No,0,None,No
+INC-4239,2026-06-04,Network issue,Email,Desktop Support,A-05,53,No,0,None,No
+INC-4240,2026-06-04,Email problem,Walk-in,Security,A-01,37,No,2,Reopened ticket; Missing information,Yes
+INC-4241,2026-06-04,Hardware fault,Email,Network,A-02,35,No,0,None,No
+INC-4242,2026-06-04,Access request,Portal,Desktop Support,A-02,75,No,0,None,No
+INC-4243,2026-06-04,Access request,Phone,Desktop Support,A-01,41,No,0,None,No
+INC-4244,2026-06-04,Software install,Walk-in,Accounts,A-05,60,No,0,None,No
+INC-4245,2026-06-04,Software install,Walk-in,Accounts,A-01,31,No,0,None,No
+INC-4246,2026-06-04,Hardware fault,Email,Applications,A-05,52,No,0,None,No
+INC-4247,2026-06-04,Network issue,Email,Desktop Support,A-01,41,No,0,None,No
+INC-4248,2026-06-04,Software install,Email,Accounts,A-02,42,No,0,None,No
+INC-4249,2026-06-04,Password reset,Email,Desktop Support,A-02,26,Yes,0,None,No
+INC-4250,2026-06-04,Network issue,Walk-in,Applications,A-05,109,No,1,Delayed assignment,No
+INC-4251,2026-06-04,Email problem,Email,Applications,A-01,20,Yes,0,None,No
+INC-4252,2026-06-04,Access request,Walk-in,Network,A-01,66,No,0,None,No
+INC-4253,2026-06-04,Password reset,Phone,Accounts,A-03,30,Yes,0,None,No
+INC-4254,2026-06-04,Access request,Phone,Desktop Support,A-03,22,Yes,0,None,No
+INC-4255,2026-06-04,Email problem,Phone,Applications,A-01,23,Yes,0,None,No
+INC-4256,2026-06-04,Access request,Phone,Network,A-01,40,No,0,None,No
+INC-4257,2026-06-04,Password reset,Walk-in,Security,A-04,25,Yes,0,None,No
+INC-4258,2026-06-04,Network issue,Portal,Security,A-03,73,No,0,None,No
+INC-4259,2026-06-04,Other,Walk-in,Security,A-04,32,No,0,None,No
+INC-4260,2026-06-04,Hardware fault,Portal,Desktop Support,A-01,38,No,0,None,No
+INC-4261,2026-06-05,Email problem,Phone,Accounts,A-04,31,No,0,None,No
+INC-4262,2026-06-05,Hardware fault,Walk-in,Network,A-04,27,Yes,1,Reopened ticket,Yes
+INC-4263,2026-06-05,Password reset,Phone,Accounts,A-04,22,Yes,0,None,No
+INC-4264,2026-06-05,Software install,Email,Network,A-01,54,No,0,None,No
+INC-4265,2026-06-05,Password reset,Portal,Security,A-03,38,No,0,None,No
+INC-4266,2026-06-05,Password reset,Portal,Security,A-04,35,No,0,None,No
+INC-4267,2026-06-05,Email problem,Phone,Desktop Support,A-01,69,No,0,None,No
+INC-4268,2026-06-05,Other,Email,Network,A-04,38,No,0,None,No
+INC-4269,2026-06-05,Access request,Walk-in,Applications,A-04,48,No,0,None,No
+INC-4270,2026-06-05,Password reset,Walk-in,Accounts,A-01,44,No,0,None,No
+INC-4271,2026-06-05,Password reset,Walk-in,Security,A-03,49,No,0,None,No
+INC-4272,2026-06-05,Password reset,Phone,Network,A-01,55,No,0,None,No
+INC-4273,2026-06-05,Software install,Walk-in,Accounts,A-04,33,No,0,None,No
+INC-4274,2026-06-05,Software install,Portal,Applications,A-05,22,Yes,0,None,No
+INC-4275,2026-06-05,Hardware fault,Walk-in,Applications,A-04,32,No,0,None,No
+INC-4276,2026-06-05,Hardware fault,Phone,Security,A-02,32,No,2,Duplicate ticket; Wrong queue,No
+INC-4277,2026-06-05,Email problem,Walk-in,Security,A-05,15,Yes,0,None,No
+INC-4278,2026-06-05,Password reset,Phone,Desktop Support,A-05,90,No,0,None,No
+INC-4279,2026-06-05,Network issue,Email,Accounts,A-05,105,No,1,Delayed assignment,No
+INC-4280,2026-06-05,Access request,Phone,Security,A-02,51,No,0,None,No
+INC-4281,2026-06-05,Hardware fault,Walk-in,Network,A-02,41,No,0,None,No
+INC-4282,2026-06-05,Hardware fault,Portal,Applications,A-05,27,Yes,0,None,No
+INC-4283,2026-06-05,Hardware fault,Walk-in,Applications,A-03,68,No,0,None,No
+INC-4284,2026-06-05,Password reset,Portal,Security,A-05,28,Yes,0,None,No
+INC-4285,2026-06-05,Access request,Email,Applications,A-03,49,No,0,None,No
+INC-4286,2026-06-05,Software install,Email,Applications,A-05,22,Yes,0,None,No
+INC-4287,2026-06-05,Other,Phone,Accounts,A-05,39,No,2,Wrong queue; Missing information,No
+INC-4288,2026-06-05,Software install,Phone,Desktop Support,A-02,16,Yes,1,Wrong queue,No
+INC-4289,2026-06-05,Password reset,Email,Accounts,A-05,23,Yes,0,None,No
+INC-4290,2026-06-05,Network issue,Walk-in,Desktop Support,A-05,55,No,0,None,No
+INC-4291,2026-06-05,Email problem,Email,Network,A-05,14,Yes,0,None,No
+INC-4292,2026-06-05,Software install,Email,Security,A-04,30,Yes,0,None,No
+INC-4293,2026-06-05,Network issue,Phone,Security,A-05,55,No,0,None,No
+INC-4294,2026-06-05,Network issue,Phone,Accounts,A-02,37,No,0,None,No
+INC-4295,2026-06-05,Email problem,Phone,Accounts,A-04,25,Yes,0,None,No
+INC-4296,2026-06-05,Password reset,Email,Network,A-04,27,Yes,0,None,No
+INC-4297,2026-06-05,Email problem,Phone,Accounts,A-03,50,No,0,None,No
+INC-4298,2026-06-05,Network issue,Phone,Applications,A-03,64,No,0,None,No
+INC-4299,2026-06-05,Software install,Phone,Accounts,A-05,46,No,0,None,No
+INC-4300,2026-06-05,Network issue,Phone,Desktop Support,A-01,24,Yes,0,None,No
+INC-4301,2026-06-08,Email problem,Portal,Desktop Support,A-03,38,No,0,None,No
+INC-4302,2026-06-08,Hardware fault,Email,Applications,A-04,53,No,0,None,No
+INC-4303,2026-06-08,Access request,Phone,Desktop Support,A-01,40,No,1,Wrong queue,No
+INC-4304,2026-06-08,Email problem,Portal,Applications,A-02,37,No,0,None,No
+INC-4305,2026-06-08,Network issue,Email,Security,A-01,53,No,0,None,No
+INC-4306,2026-06-08,Password reset,Walk-in,Desktop Support,A-05,25,Yes,0,None,No
+INC-4307,2026-06-08,Hardware fault,Portal,Applications,A-05,30,Yes,0,None,No
+INC-4308,2026-06-08,Access request,Portal,Desktop Support,A-04,17,Yes,0,None,No
+INC-4309,2026-06-08,Email problem,Phone,Applications,A-01,26,Yes,0,None,No
+INC-4310,2026-06-08,Software install,Email,Network,A-03,43,No,1,Unclear status,No
+INC-4311,2026-06-08,Access request,Portal,Security,A-02,40,No,0,None,No
+INC-4312,2026-06-08,Software install,Walk-in,Accounts,A-05,56,No,0,None,No
+INC-4313,2026-06-08,Password reset,Portal,Accounts,A-02,92,No,1,Delayed assignment,No
+INC-4314,2026-06-08,Access request,Phone,Network,A-04,35,No,0,None,No
+INC-4315,2026-06-08,Password reset,Portal,Accounts,A-02,43,No,0,None,No
+INC-4316,2026-06-08,Email problem,Portal,Desktop Support,A-05,55,No,0,None,No
+INC-4317,2026-06-08,Password reset,Email,Network,A-02,40,No,0,None,No
+INC-4318,2026-06-08,Network issue,Portal,Accounts,A-04,31,No,0,None,No
+INC-4319,2026-06-08,Access request,Phone,Security,A-02,26,Yes,0,None,No
+INC-4320,2026-06-08,Password reset,Phone,Desktop Support,A-03,44,No,0,None,No
+INC-4321,2026-06-08,Email problem,Phone,Desktop Support,A-05,80,No,0,None,No
+INC-4322,2026-06-08,Network issue,Walk-in,Network,A-01,92,No,1,Delayed assignment,No
+INC-4323,2026-06-08,Other,Walk-in,Network,A-03,26,Yes,0,None,No
+INC-4324,2026-06-08,Software install,Phone,Desktop Support,A-03,55,No,0,None,No
+INC-4325,2026-06-08,Password reset,Phone,Accounts,A-05,46,No,0,None,No
+INC-4326,2026-06-08,Password reset,Portal,Applications,A-03,30,Yes,0,None,No
+INC-4327,2026-06-08,Email problem,Portal,Accounts,A-04,17,Yes,0,None,No
+INC-4328,2026-06-08,Other,Walk-in,Accounts,A-02,32,No,0,None,No
+INC-4329,2026-06-08,Other,Phone,Network,A-03,72,No,0,None,No
+INC-4330,2026-06-08,Email problem,Email,Applications,A-04,16,Yes,0,None,No
+INC-4331,2026-06-08,Network issue,Phone,Desktop Support,A-01,144,No,1,Delayed assignment,No
+INC-4332,2026-06-08,Other,Walk-in,Applications,A-02,39,No,0,None,No
+INC-4333,2026-06-08,Access request,Email,Security,A-01,18,Yes,0,None,No
+INC-4334,2026-06-08,Hardware fault,Portal,Applications,A-05,65,No,0,None,No
+INC-4335,2026-06-08,Password reset,Portal,Applications,A-05,29,Yes,0,None,No
+INC-4336,2026-06-08,Hardware fault,Phone,Accounts,A-01,33,No,2,Wrong queue; Missing information,No
+INC-4337,2026-06-08,Software install,Phone,Desktop Support,A-05,116,No,1,Delayed assignment,No
+INC-4338,2026-06-08,Software install,Phone,Accounts,A-02,20,Yes,0,None,No
+INC-4339,2026-06-08,Access request,Phone,Accounts,A-04,25,Yes,0,None,No
+INC-4340,2026-06-08,Hardware fault,Portal,Desktop Support,A-05,69,No,2,Wrong queue; Missing information,No
+INC-4341,2026-06-09,Access request,Portal,Security,A-02,123,No,1,Delayed assignment,No
+INC-4342,2026-06-09,Access request,Walk-in,Applications,A-02,21,Yes,0,None,No
+INC-4343,2026-06-09,Password reset,Phone,Desktop Support,A-02,81,No,0,None,No
+INC-4344,2026-06-09,Hardware fault,Email,Applications,A-04,143,No,1,Delayed assignment,No
+INC-4345,2026-06-09,Software install,Portal,Security,A-04,34,No,0,None,No
+INC-4346,2026-06-09,Network issue,Portal,Security,A-05,68,No,0,None,No
+INC-4347,2026-06-09,Hardware fault,Walk-in,Network,A-02,63,No,0,None,No
+INC-4348,2026-06-09,Hardware fault,Walk-in,Accounts,A-02,49,No,2,Missing information; Unclear status,No
+INC-4349,2026-06-09,Email problem,Portal,Security,A-03,111,No,1,Delayed assignment,No
+INC-4350,2026-06-09,Network issue,Walk-in,Accounts,A-01,66,No,0,None,No
+INC-4351,2026-06-09,Email problem,Phone,Applications,A-05,24,Yes,1,Missing information,No
+INC-4352,2026-06-09,Software install,Walk-in,Desktop Support,A-04,72,No,0,None,No
+INC-4353,2026-06-09,Network issue,Walk-in,Network,A-04,70,No,0,None,No
+INC-4354,2026-06-09,Password reset,Email,Network,A-02,122,No,1,Delayed assignment,No
+INC-4355,2026-06-09,Other,Phone,Network,A-03,78,No,0,None,No
+INC-4356,2026-06-09,Email problem,Walk-in,Accounts,A-05,78,No,0,None,No
+INC-4357,2026-06-09,Other,Phone,Security,A-04,78,No,0,None,No
+INC-4358,2026-06-09,Software install,Email,Desktop Support,A-02,68,No,0,None,No
+INC-4359,2026-06-09,Network issue,Phone,Applications,A-02,74,No,0,None,No
+INC-4360,2026-06-09,Software install,Walk-in,Desktop Support,A-02,64,No,0,None,No
+INC-4361,2026-06-09,Access request,Email,Network,A-02,35,No,0,None,No
+INC-4362,2026-06-09,Access request,Walk-in,Desktop Support,A-01,46,No,0,None,No
+INC-4363,2026-06-09,Access request,Email,Desktop Support,A-02,43,No,0,None,No
+INC-4364,2026-06-09,Password reset,Walk-in,Desktop Support,A-05,37,No,0,None,No
+INC-4365,2026-06-09,Access request,Email,Network,A-01,68,No,0,None,No
+INC-4366,2026-06-09,Password reset,Portal,Applications,A-05,31,No,0,None,No
+INC-4367,2026-06-09,Password reset,Walk-in,Applications,A-02,30,Yes,0,None,No
+INC-4368,2026-06-09,Access request,Portal,Security,A-05,36,No,0,None,No
+INC-4369,2026-06-09,Password reset,Email,Accounts,A-05,128,No,1,Delayed assignment,No
+INC-4370,2026-06-09,Hardware fault,Phone,Security,A-05,62,No,0,None,No
+INC-4371,2026-06-09,Hardware fault,Phone,Security,A-04,45,No,0,None,No
+INC-4372,2026-06-09,Password reset,Portal,Security,A-01,65,No,0,None,No
+INC-4373,2026-06-09,Network issue,Portal,Desktop Support,A-02,49,No,0,None,No
+INC-4374,2026-06-09,Password reset,Portal,Security,A-01,49,No,1,Unclear status,No
+INC-4375,2026-06-09,Password reset,Portal,Security,A-05,47,No,0,None,No
+INC-4376,2026-06-09,Password reset,Portal,Accounts,A-05,63,No,0,None,No
+INC-4377,2026-06-09,Password reset,Walk-in,Security,A-03,14,Yes,0,None,No
+INC-4378,2026-06-09,Email problem,Portal,Network,A-01,58,No,0,None,No
+INC-4379,2026-06-09,Access request,Email,Accounts,A-02,164,No,1,Delayed assignment,No
+INC-4380,2026-06-09,Network issue,Email,Accounts,A-05,108,No,1,Delayed assignment,No
+INC-4381,2026-06-10,Password reset,Email,Security,A-05,48,No,0,None,No
+INC-4382,2026-06-10,Password reset,Email,Security,A-03,53,No,0,None,No
+INC-4383,2026-06-10,Software install,Email,Desktop Support,A-01,99,No,1,Delayed assignment,No
+INC-4384,2026-06-10,Hardware fault,Email,Security,A-05,56,No,0,None,No
+INC-4385,2026-06-10,Other,Phone,Accounts,A-04,28,Yes,0,None,No
+INC-4386,2026-06-10,Hardware fault,Email,Network,A-01,135,No,1,Delayed assignment,No
+INC-4387,2026-06-10,Hardware fault,Phone,Applications,A-05,65,No,0,None,No
+INC-4388,2026-06-10,Other,Walk-in,Network,A-02,67,No,0,None,No
+INC-4389,2026-06-10,Password reset,Email,Network,A-05,91,No,1,Delayed assignment,No
+INC-4390,2026-06-10,Software install,Email,Desktop Support,A-02,36,No,0,None,No
+INC-4391,2026-06-10,Password reset,Walk-in,Desktop Support,A-01,87,No,0,None,No
+INC-4392,2026-06-10,Password reset,Email,Accounts,A-03,67,No,0,None,No
+INC-4393,2026-06-10,Access request,Portal,Security,A-02,32,No,1,Reopened ticket,Yes
+INC-4394,2026-06-10,Password reset,Portal,Accounts,A-02,34,No,0,None,No
+INC-4395,2026-06-10,Hardware fault,Email,Applications,A-02,41,No,1,Missing information,No
+INC-4396,2026-06-10,Access request,Email,Accounts,A-04,169,No,1,Delayed assignment,No
+INC-4397,2026-06-10,Access request,Phone,Network,A-03,61,No,0,None,No
+INC-4398,2026-06-10,Software install,Email,Desktop Support,A-03,112,No,1,Delayed assignment,No
+INC-4399,2026-06-10,Email problem,Phone,Network,A-04,172,No,1,Delayed assignment,No
+INC-4400,2026-06-10,Software install,Portal,Accounts,A-05,32,No,0,None,No
+INC-4401,2026-06-10,Password reset,Portal,Security,A-01,66,No,0,None,No
+INC-4402,2026-06-10,Hardware fault,Portal,Security,A-04,58,No,0,None,No
+INC-4403,2026-06-10,Access request,Phone,Applications,A-05,113,No,1,Delayed assignment,No
+INC-4404,2026-06-10,Network issue,Phone,Desktop Support,A-03,33,No,0,None,No
+INC-4405,2026-06-10,Access request,Walk-in,Desktop Support,A-02,95,No,1,Delayed assignment,No
+INC-4406,2026-06-10,Software install,Phone,Desktop Support,A-02,66,No,0,None,No
+INC-4407,2026-06-10,Hardware fault,Walk-in,Accounts,A-04,39,No,0,None,No
+INC-4408,2026-06-10,Software install,Portal,Accounts,A-01,79,No,0,None,No
+INC-4409,2026-06-10,Network issue,Portal,Applications,A-02,55,No,0,None,No
+INC-4410,2026-06-10,Other,Portal,Desktop Support,A-02,43,No,0,None,No
+INC-4411,2026-06-10,Access request,Walk-in,Desktop Support,A-04,41,No,0,None,No
+INC-4412,2026-06-10,Access request,Phone,Security,A-02,25,Yes,0,None,No
+INC-4413,2026-06-10,Software install,Email,Accounts,A-04,152,No,1,Delayed assignment,No
+INC-4414,2026-06-10,Network issue,Email,Security,A-03,61,No,0,None,No
+INC-4415,2026-06-10,Network issue,Phone,Accounts,A-02,79,No,0,None,No
+INC-4416,2026-06-10,Access request,Email,Desktop Support,A-03,67,No,2,Wrong queue; Missing information,No
+INC-4417,2026-06-10,Software install,Walk-in,Desktop Support,A-05,20,Yes,0,None,No
+INC-4418,2026-06-10,Software install,Walk-in,Accounts,A-02,141,No,1,Delayed assignment,No
+INC-4419,2026-06-10,Email problem,Phone,Network,A-05,92,No,1,Delayed assignment,No
+INC-4420,2026-06-10,Email problem,Email,Desktop Support,A-04,172,No,1,Delayed assignment,No
+INC-4421,2026-06-11,Password reset,Walk-in,Applications,A-01,66,No,0,None,No
+INC-4422,2026-06-11,Network issue,Walk-in,Security,A-01,21,Yes,0,None,No
+INC-4423,2026-06-11,Network issue,Walk-in,Accounts,A-05,56,No,0,None,No
+INC-4424,2026-06-11,Software install,Email,Applications,A-05,49,No,1,Missing information,No
+INC-4425,2026-06-11,Password reset,Email,Security,A-03,39,No,1,Wrong queue,No
+INC-4426,2026-06-11,Software install,Email,Security,A-04,39,No,0,None,No
+INC-4427,2026-06-11,Password reset,Walk-in,Applications,A-01,101,No,1,Delayed assignment,No
+INC-4428,2026-06-11,Hardware fault,Walk-in,Desktop Support,A-03,43,No,1,Reopened ticket,Yes
+INC-4429,2026-06-11,Other,Walk-in,Desktop Support,A-05,89,No,0,None,No
+INC-4430,2026-06-11,Password reset,Email,Network,A-05,91,No,0,None,No
+INC-4431,2026-06-11,Software install,Email,Security,A-05,91,No,0,None,No
+INC-4432,2026-06-11,Password reset,Walk-in,Security,A-02,31,No,2,Duplicate ticket; Wrong queue,No
+INC-4433,2026-06-11,Other,Portal,Accounts,A-01,114,No,1,Delayed assignment,No
+INC-4434,2026-06-11,Password reset,Email,Applications,A-05,85,No,0,None,No
+INC-4435,2026-06-11,Email problem,Phone,Applications,A-05,83,No,0,None,No
+INC-4436,2026-06-11,Email problem,Portal,Network,A-05,44,No,0,None,No
+INC-4437,2026-06-11,Hardware fault,Walk-in,Network,A-05,73,No,0,None,No
+INC-4438,2026-06-11,Password reset,Walk-in,Applications,A-03,46,No,0,None,No
+INC-4439,2026-06-11,Access request,Portal,Desktop Support,A-04,78,No,0,None,No
+INC-4440,2026-06-11,Software install,Email,Accounts,A-03,39,No,0,None,No
+INC-4441,2026-06-11,Password reset,Walk-in,Desktop Support,A-04,40,No,0,None,No
+INC-4442,2026-06-11,Password reset,Email,Network,A-04,163,No,1,Delayed assignment,No
+INC-4443,2026-06-11,Access request,Walk-in,Applications,A-01,60,No,0,None,No
+INC-4444,2026-06-11,Other,Portal,Desktop Support,A-05,71,No,2,Missing information; Wrong queue,No
+INC-4445,2026-06-11,Network issue,Phone,Security,A-04,63,No,0,None,No
+INC-4446,2026-06-11,Other,Phone,Security,A-03,24,Yes,0,None,No
+INC-4447,2026-06-11,Password reset,Email,Accounts,A-01,87,No,0,None,No
+INC-4448,2026-06-11,Access request,Walk-in,Accounts,A-05,46,No,0,None,No
+INC-4449,2026-06-11,Access request,Phone,Desktop Support,A-01,147,No,1,Delayed assignment,No
+INC-4450,2026-06-11,Access request,Email,Applications,A-04,111,No,1,Delayed assignment,No
+INC-4451,2026-06-11,Hardware fault,Walk-in,Network,A-04,66,No,2,Duplicate ticket; Reopened ticket,Yes
+INC-4452,2026-06-11,Password reset,Walk-in,Applications,A-05,156,No,1,Delayed assignment,No
+INC-4453,2026-06-11,Password reset,Walk-in,Desktop Support,A-03,36,No,0,None,No
+INC-4454,2026-06-11,Software install,Email,Accounts,A-01,107,No,1,Delayed assignment,No
+INC-4455,2026-06-11,Network issue,Walk-in,Applications,A-05,49,No,0,None,No
+INC-4456,2026-06-11,Email problem,Walk-in,Network,A-03,33,No,0,None,No
+INC-4457,2026-06-11,Software install,Phone,Applications,A-02,68,No,0,None,No
+INC-4458,2026-06-11,Software install,Portal,Security,A-04,23,Yes,0,None,No
+INC-4459,2026-06-11,Access request,Phone,Security,A-04,55,No,0,None,No
+INC-4460,2026-06-11,Hardware fault,Walk-in,Accounts,A-01,66,No,0,None,No
+INC-4461,2026-06-12,Software install,Phone,Applications,A-04,64,No,0,None,No
+INC-4462,2026-06-12,Software install,Email,Security,A-02,60,No,1,Reopened ticket,Yes
+INC-4463,2026-06-12,Network issue,Walk-in,Network,A-05,53,No,1,Missing information,No
+INC-4464,2026-06-12,Email problem,Portal,Accounts,A-03,64,No,0,None,No
+INC-4465,2026-06-12,Password reset,Phone,Network,A-04,49,No,0,None,No
+INC-4466,2026-06-12,Access request,Portal,Network,A-01,74,No,0,None,No
+INC-4467,2026-06-12,Hardware fault,Phone,Network,A-05,30,Yes,1,Missing information,No
+INC-4468,2026-06-12,Access request,Phone,Desktop Support,A-05,79,No,0,None,No
+INC-4469,2026-06-12,Password reset,Email,Applications,A-05,49,No,0,None,No
+INC-4470,2026-06-12,Password reset,Portal,Network,A-04,118,No,1,Delayed assignment,No
+INC-4471,2026-06-12,Access request,Portal,Desktop Support,A-02,137,No,1,Delayed assignment,No
+INC-4472,2026-06-12,Software install,Email,Network,A-01,56,No,0,None,No
+INC-4473,2026-06-12,Software install,Walk-in,Accounts,A-05,96,No,1,Delayed assignment,No
+INC-4474,2026-06-12,Password reset,Phone,Applications,A-01,50,No,1,Missing information,No
+INC-4475,2026-06-12,Software install,Walk-in,Desktop Support,A-03,78,No,2,Duplicate ticket; Missing information,No
+INC-4476,2026-06-12,Software install,Email,Security,A-05,75,No,0,None,No
+INC-4477,2026-06-12,Software install,Phone,Applications,A-05,56,No,0,None,No
+INC-4478,2026-06-12,Hardware fault,Walk-in,Network,A-03,73,No,0,None,No
+INC-4479,2026-06-12,Software install,Walk-in,Network,A-05,78,No,0,None,No
+INC-4480,2026-06-12,Password reset,Email,Accounts,A-02,105,No,1,Delayed assignment,No
+INC-4481,2026-06-12,Network issue,Walk-in,Network,A-01,70,No,0,None,No
+INC-4482,2026-06-12,Hardware fault,Email,Security,A-01,56,No,1,Missing information,No
+INC-4483,2026-06-12,Password reset,Phone,Desktop Support,A-01,42,No,0,None,No
+INC-4484,2026-06-12,Hardware fault,Phone,Applications,A-03,140,No,1,Delayed assignment,No
+INC-4485,2026-06-12,Password reset,Email,Security,A-05,124,No,1,Delayed assignment,No
+INC-4486,2026-06-12,Other,Portal,Accounts,A-02,38,No,0,None,No
+INC-4487,2026-06-12,Other,Walk-in,Security,A-05,57,No,0,None,No
+INC-4488,2026-06-12,Email problem,Email,Security,A-02,87,No,0,None,No
+INC-4489,2026-06-12,Access request,Email,Accounts,A-04,27,Yes,0,None,No
+INC-4490,2026-06-12,Password reset,Email,Desktop Support,A-05,38,No,0,None,No
+INC-4491,2026-06-12,Password reset,Email,Accounts,A-02,147,No,1,Delayed assignment,No
+INC-4492,2026-06-12,Software install,Portal,Network,A-03,86,No,0,None,No
+INC-4493,2026-06-12,Email problem,Portal,Network,A-02,112,No,1,Delayed assignment,No
+INC-4494,2026-06-12,Email problem,Walk-in,Applications,A-04,127,No,1,Delayed assignment,No
+INC-4495,2026-06-12,Software install,Walk-in,Desktop Support,A-02,19,Yes,0,None,No
+INC-4496,2026-06-12,Password reset,Email,Accounts,A-05,65,No,1,Wrong queue,No
+INC-4497,2026-06-12,Access request,Portal,Accounts,A-01,129,No,1,Delayed assignment,No
+INC-4498,2026-06-12,Password reset,Walk-in,Applications,A-02,97,No,1,Delayed assignment,No
+INC-4499,2026-06-12,Password reset,Walk-in,Accounts,A-05,123,No,1,Delayed assignment,No
+INC-4500,2026-06-12,Network issue,Email,Applications,A-03,65,No,0,None,No

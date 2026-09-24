@@ -1,0 +1,11 @@
+obs_id,observation,process_step,time_lost_min,waste_type
+W-01,Ticket sits in the unassigned queue overnight,Triage,480,
+W-02,Agent re-keys the ticket details into the asset system,Assignment,6,
+W-03,"Ticket sent to Network, returned, then sent to Desktop Support",Routing,95,
+W-04,Employee called twice to chase status,Status update,12,
+W-05,Senior engineer resets passwords that the portal could self-serve,Resolution,20,
+W-06,38 tickets waiting in the backlog at the start of the shift,Triage,0,
+W-07,Agent switches between four systems to complete one ticket,Resolution,9,
+W-08,Approval collected for a standard software install,Approval,240,
+W-09,Ticket reopened because the fix did not hold,Closure,150,
+W-10,Weekly report produced that nobody opens,Reporting,60,

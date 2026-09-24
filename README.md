@@ -12,7 +12,7 @@ This is a **non-WSQ commercial short course**: there is no assessment, no SSG/Sk
 - **Daily Timing:** 9:30 am – 5:30 pm (30-minute lunch break)
 - **Level:** Beginner
 - **Mode:** Instructor-led, hands-on Lean Six Sigma labs
-- **Version:** v1 · 21 September 2026
+- **Version:** v1 · 23 September 2026
 - **Trainer:** Dr. Alfred Ang
 - **Course Registration:** [Certified Lean Six Sigma Yellow Belt (CLSSYB)](https://www.tertiarycourses.com.sg/certified-lean-six-sigma-yellow-belt.html)
 - **Reference:** The Council for Six Sigma Certification (CSSC), *Six Sigma: A Complete Step-by-Step Guide*
@@ -37,40 +37,47 @@ This is a **non-WSQ commercial short course**: there is no assessment, no SSG/Sk
 | 5 | Improve — Fix the Cause | 10% | 9, 13 |
 | 6 | Control — Hold the Gain | 5% | 10, 14 |
 
-## Labs
+## Activities
 
-Every lab builds on the same Contoso Service Desk scenario, so outputs accumulate into one complete improvement package.
+Every activity builds on the same Contoso Service Desk scenario, so outputs accumulate into one complete improvement package.
 
-| # | Lab | DMAIC phase | Type |
+| # | Activity | DMAIC phase | Type |
 |---|-----|-------------|------|
-| 1 | [Yellow Belt Role, Certification Paths, and Improvement Scenario](labs/lab-01-yellow-belt-role-certification-paths-and-improvement-scenari.md) | FOUNDATIONS | Core |
-| 2 | [Lean, Six Sigma, Waste, Voice of Customer, and Value](labs/lab-02-lean-six-sigma-waste-voice-of-customer-and-value.md) | DEFINE | Core |
-| 3 | [SIPOC, Process Mapping, Handoffs, and SME Support](labs/lab-03-sipoc-process-mapping-handoffs-and-sme-support.md) | DEFINE | Core |
-| 4 | [PDCA Small Improvement Project Charter](labs/lab-04-pdca-small-improvement-project-charter.md) | DEFINE | Elective |
-| 5 | [DMAIC Overview, Problem Statement, Scope, and Stakeholders](labs/lab-05-dmaic-overview-problem-statement-scope-and-stakeholders.md) | DEFINE | Core |
-| 6 | [Data Collection, KPIs, Check Sheets, and Basic Metrics](labs/lab-06-data-collection-kpis-check-sheets-and-basic-metrics.md) | MEASURE | Core |
-| 7 | [Pareto, Run Charts, Variation, Yield, DPU, and DPMO](labs/lab-07-pareto-run-charts-variation-yield-dpu-and-dpmo.md) | ANALYZE | Core |
-| 8 | [Root Cause Analysis with 5 Whys, Fishbone, and Evidence](labs/lab-08-root-cause-analysis-with-5-whys-fishbone-and-evidence.md) | ANALYZE | Core |
-| 9 | [Countermeasures, 5S, Mistake Proofing, Standard Work, and Kaizen](labs/lab-09-countermeasures-5s-mistake-proofing-standard-work-and-kaizen.md) | IMPROVE | Core |
-| 10 | [Control Plan, A3 Summary, Handover, and Certification Readiness](labs/lab-10-control-plan-a3-summary-handover-and-certification-readiness.md) | CONTROL | Core |
-| 11 | [Affinity Diagram and Kano Analysis](labs/lab-11-affinity-diagram-and-kano-analysis.md) | DEFINE | Elective |
-| 12 | [Value Stream Map and Takt Time](labs/lab-12-value-stream-map-and-takt-time.md) | MEASURE | Elective |
-| 13 | [Solution Selection Matrix, Benchmarking, and FMEA](labs/lab-13-solution-selection-matrix-benchmarking-and-fmea.md) | IMPROVE | Elective |
-| 14 | [Descriptive Statistics and Implementation Planning](labs/lab-14-descriptive-statistics-and-implementation-planning.md) | CONTROL | Elective |
+| 1 | [Yellow Belt Role, Certification Paths, and Improvement Scenario](activities/01%20-%20Yellow%20Belt%20Role%2C%20Certification%20Paths%2C%20and%20Improvement%20Scenario) | FOUNDATIONS | Core |
+| 2 | [Lean, Six Sigma, Waste, Voice of Customer, and Value](activities/02%20-%20Lean%2C%20Six%20Sigma%2C%20Waste%2C%20Voice%20of%20Customer%2C%20and%20Value) | DEFINE | Core |
+| 3 | [SIPOC, Process Mapping, Handoffs, and SME Support](activities/03%20-%20SIPOC%2C%20Process%20Mapping%2C%20Handoffs%2C%20and%20SME%20Support) | DEFINE | Core |
+| 4 | [PDCA Small Improvement Project Charter](activities/04%20-%20PDCA%20Small%20Improvement%20Project%20Charter) | DEFINE | Elective |
+| 5 | [DMAIC Overview, Problem Statement, Scope, and Stakeholders](activities/05%20-%20DMAIC%20Overview%2C%20Problem%20Statement%2C%20Scope%2C%20and%20Stakeholders) | DEFINE | Core |
+| 6 | [Data Collection, KPIs, Check Sheets, and Basic Metrics](activities/06%20-%20Data%20Collection%2C%20KPIs%2C%20Check%20Sheets%2C%20and%20Basic%20Metrics) | MEASURE | Core |
+| 7 | [Pareto, Run Charts, Variation, Yield, DPU, and DPMO](activities/07%20-%20Pareto%2C%20Run%20Charts%2C%20Variation%2C%20Yield%2C%20DPU%2C%20and%20DPMO) | ANALYZE | Core |
+| 8 | [Root Cause Analysis with 5 Whys, Fishbone, and Evidence](activities/08%20-%20Root%20Cause%20Analysis%20with%205%20Whys%2C%20Fishbone%2C%20and%20Evidence) | ANALYZE | Core |
+| 9 | [Countermeasures, 5S, Mistake Proofing, Standard Work, and Kaizen](activities/09%20-%20Countermeasures%2C%205S%2C%20Mistake%20Proofing%2C%20Standard%20Work%2C%20and%20Kaizen) | IMPROVE | Core |
+| 10 | [Control Plan, A3 Summary, Handover, and Certification Readiness](activities/10%20-%20Control%20Plan%2C%20A3%20Summary%2C%20Handover%2C%20and%20Certification%20Readiness) | CONTROL | Core |
+| 11 | [Affinity Diagram and Kano Analysis](activities/11%20-%20Affinity%20Diagram%20and%20Kano%20Analysis) | DEFINE | Elective |
+| 12 | [Value Stream Map and Takt Time](activities/12%20-%20Value%20Stream%20Map%20and%20Takt%20Time) | MEASURE | Elective |
+| 13 | [Solution Selection Matrix, Benchmarking, and FMEA](activities/13%20-%20Solution%20Selection%20Matrix%2C%20Benchmarking%2C%20and%20FMEA) | IMPROVE | Elective |
+| 14 | [Descriptive Statistics and Implementation Planning](activities/14%20-%20Descriptive%20Statistics%20and%20Implementation%20Planning) | CONTROL | Elective |
 
-See [labs/tools.md](labs/tools.md) for the browser-based problem-solving tools used in the labs.
+See [activities/tools.md](activities/tools.md) for the browser-based problem-solving tools, and
+[activities/README.md](activities/README.md) for the shared Contoso data set.
+
+Each activity folder is self-contained: a **Facilitator Guide**, a **Learner Worksheet** and a
+**Checklist** (DOCX + PDF), plus `data/` (the mock CSVs analysed), `templates/` (blank worksheets)
+and, for Activity 7, `solution/` (worked answers — trainer only).
 
 ## Repository Structure
 
 ```
 .
 ├── courseware/                     Learner-facing artifacts
-│   ├── *-v1.pptx / *-v1.pdf        Slide deck (246 slides, all-white house style)
+│   ├── *-v1.pptx / *-v1.pdf        Slide deck (262 slides, all-white house style)
 │   ├── LP-*.docx / LP-*.pdf        Lesson Plan
 │   ├── LG-*.docx / LG-*.pdf        Learner Guide
 │   ├── assets/                     Images used by the deck
 │   └── archive/                    Superseded versions (kept locally, not pushed)
-├── labs/                           14 lab worksheets + index + tools
+├── activities/                     14 self-contained activity packs
+│   └── NN - <title>/               Facilitator Guide + Learner Worksheet + Checklist
+│                                   (DOCX+PDF) + data/ + templates/ [+ solution/]
 ├── LG-*.md                         Learner Guide Markdown mirror
 └── .claude/
     ├── skills/                     Build pipeline, QA scanner, lab standard, Drive push
@@ -80,10 +87,10 @@ See [labs/tools.md](labs/tools.md) for the browser-based problem-solving tools u
 ## Provenance
 
 This courseware is a **direct conversion of the WSQ counterpart course**
-(`TGS-2025053922 — Certified Lean Six Sigma Yellow Belt (CLSSYB) Training`), produced with
-the `wsq-to-non-wsq` skill. The deck, Lesson Plan, Learner Guide and all 14 labs are the
+(`TGS-2025053922 — Certified Lean Six Sigma Yellow Belt (CLSSYB) Training`, v9), produced with
+the `wsq-to-non-wsq` skill. The deck, Lesson Plan, Learner Guide and all 14 activity packs are the
 WSQ artifacts with the WSQ layer removed and the schedule retimed to the non-WSQ day —
-same topic spine, same labs, same house design.
+same topic spine, same activities, same house design.
 
 Removed in conversion: digital attendance, the WSQ Skills Framework / TSC alignment, the
 Learning Outcomes slide, assessment briefing / assessment / assessment-flow slides, the
@@ -114,12 +121,12 @@ python3 .claude/skills/gdrive-push-nonwsq/gdrive_push_nonwsq.py "<drive-folder-l
 ```
 
 Routes each artifact to its Drive folder — deck PPT → **Trainer Slides**, deck PDF →
-**Learner Slides**, LG → **Learner Guide**, LP → **Lesson Plan**, `labs/` → **Activities** —
+**Learner Slides**, LG → **Learner Guide**, LP → **Lesson Plan**, `activities/` → **Activities** —
 auto-creating each folder's `archive/` and moving superseded versions into it. Nothing on
 Drive is ever deleted, and unchanged files (matched by MD5) are skipped.
 
 Activities is **additive**: lab files are uploaded and updated while the trainer's existing
-datasets and `.xlsx` templates are left in place. Pass `--mirror` to make it match `labs/`
+datasets and `.xlsx` templates are left in place. Pass `--mirror` to make it match `activities/`
 exactly. Requires `rclone` (`rclone config create gdrive drive scope=drive`).
 
 ### Publishing the links to the course page

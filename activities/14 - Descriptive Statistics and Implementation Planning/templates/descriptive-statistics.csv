@@ -1,0 +1,7 @@
+statistic,formula_or_function,your_value
+Mean,AVERAGE(range),
+Median,MEDIAN(range),
+Mode,MODE(range),
+Range,MAX - MIN,
+Standard deviation,STDEV.S(range),
+What the mean-vs-median gap tells you,,

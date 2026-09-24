@@ -1,0 +1,12 @@
+metric,formula,value
+Units,Total tickets,400
+Defective units,Tickets with >= 1 defect,96
+Total defects,Sum of all defects,120
+Opportunities per unit,Given,6
+Yield %,(Units - Defective) / Units x 100,76%
+DPU,Defects / Units,0.30
+DPO,Defects / (Units x Opportunities),0.0500
+DPMO,"DPO x 1,000,000","50,000"
+Sigma level,DPMO conversion (1.5 sigma shift),~3.1
+Vital few,"Top 2 categories, cumulative",65% - Delayed assignment + Missing information
+Run chart signal,Shift rule,Mean rises from ~44 min (days 1-6) to ~72 min (days 7-10): a SHIFT (special cause) coinciding with the 9 June ITSM migration

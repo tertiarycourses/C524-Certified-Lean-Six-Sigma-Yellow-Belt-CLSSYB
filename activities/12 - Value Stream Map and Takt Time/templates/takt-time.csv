@@ -1,0 +1,7 @@
+input,value
+Available working time per day (min),450
+Customer demand per day (tickets),40
+Takt time (min per ticket),
+Total process time (min),
+Total lead time (min),
+Process cycle efficiency %,
