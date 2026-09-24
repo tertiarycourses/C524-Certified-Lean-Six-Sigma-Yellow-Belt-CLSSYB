@@ -39,7 +39,7 @@ This Learner Guide accompanies the course Certified Lean Six Sigma Yellow Belt (
 
 The course content is grounded in the body of knowledge published by The Council for Six Sigma Certification (CSSC) in 'Six Sigma: A Complete Step-by-Step Guide', so what you learn here matches the recognised Yellow Belt standard.
 
-Every activity uses one continuous scenario — the Contoso Service Desk, where IT tickets take too long to be assigned and employees must chase for status. By the end of the course your lab outputs form a complete improvement package: role definition, VOC/CTQ, process maps, data collection plan, analysis, root cause, countermeasures and a control plan.
+Every activity uses one continuous scenario — the Contoso Service Desk, where IT tickets take too long to be assigned and employees must chase for status. By the end of the course your activity outputs form a complete improvement package: role definition, VOC/CTQ, process maps, data collection plan, analysis, root cause, countermeasures and a control plan.
 
 
 ## Course Learning Outcomes
@@ -58,13 +58,13 @@ Every activity uses one continuous scenario — the Contoso Service Desk, where 
 **What you need**
 
 - A laptop with a spreadsheet application (Microsoft Excel, Google Sheets or LibreOffice Calc).
-- A browser, for the interactive problem-solving tools used in the Analyze labs.
+- A browser, for the interactive problem-solving tools used in the Analyze activities.
 - The course slides and this Learner Guide, downloaded from https://lms-tms.tertiaryinfotech.com.
 - A work process of your own to think about — the tools apply far better when the example is real.
 
 **The interactive problem-solving toolkit**
 
-Five browser-based tools are used during the labs. No installation, licence or sign-up is required, and nothing you enter leaves your browser.
+Five browser-based tools are used during the activities. No installation, licence or sign-up is required, and nothing you enter leaves your browser.
 
 - SIPOC & Process Map Builder — a guided SIPOC that enforces the 5-7 step rule, tags pain points, and generates the swimlane and handoff table from your actor assignments: https://alfredang.github.io/sipoc/
 - 5 Whys — build and share a 5 Whys chain: https://alfredang.github.io/5whys/
@@ -75,8 +75,8 @@ Five browser-based tools are used during the labs. No installation, licence or s
 **Core and elective activities**
 
 - Core activities are completed by everyone and map directly to the DMAIC phases.
-- Elective labs extend the same scenario with additional Lean Six Sigma tools; complete them if time allows or as post-course practice.
-- All labs build on the same Contoso Service Desk scenario, so outputs carry forward from one lab to the next.
+- Elective activities extend the same scenario with additional Lean Six Sigma tools; complete them if time allows or as post-course practice.
+- All activities build on the same Contoso Service Desk scenario, so outputs carry forward from one activity to the next.
 
 **The Contoso Service Desk data set**
 
@@ -87,7 +87,7 @@ Every activity works from these same figures, so the numbers you calculate stay 
 - Yield 76% · DPU 0.30 · DPO 0.0500 · DPMO 50,000 · sigma level ~3.1.
 - Pareto vital few: Delayed assignment (40%) and Missing information (25%) — 65% of all defects.
 - The run chart hides a genuine special cause: performance shifts from day 7, when the ITSM platform was migrated.
-- Each lab folder carries its own data/ (mock data to analyse) and templates/ (worksheets to complete).
+- Each activity folder carries its own data/ (mock data to analyse) and templates/ (worksheets to complete).
 
 **Where to find each activity's files**
 
@@ -95,10 +95,10 @@ Each activity is a self-contained folder under activities/ — activities/NN - <
 
 **Conventions used in every activity**
 
-- Each lab states its objective, the deliverable you produce, the steps, and a check to confirm you are done.
+- Each activity states its objective, the deliverable you produce, the steps, and a check to confirm you are done.
 - Tables shown in the steps can be built in a spreadsheet or on the worksheet provided.
-- Where a lab uses an online tool, the tool URL is shown with the step.
-- Keep every lab output — they combine into your final improvement package and are your revision material.
+- Where an activity uses an online tool, the tool URL is shown with the step.
+- Keep every activity output — they combine into your final improvement package and are your revision material.
 
 
 ## FOUNDATIONS — Six Sigma Foundations  (15%)
@@ -484,7 +484,7 @@ A Pareto chart, a run chart and calculated yield, DPU, DPO, DPMO and sigma level
 - templates/pareto-table.csv — worksheet to complete (defect_category, count, percent, cumulative_percent)
 - templates/process-metrics.csv — worksheet to complete (metric, formula, your_calculation)
 
-Upload data/assignment-times.csv to NovaSPC for the run chart. Worked answers are in solution/pareto-table-answers.csv and solution/process-metrics-answers.csv — attempt the lab before opening them.
+Upload data/assignment-times.csv to NovaSPC for the run chart. Worked answers are in solution/pareto-table-answers.csv and solution/process-metrics-answers.csv — attempt the activity before opening them.
 
 **Check your work**
 
